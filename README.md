@@ -16,6 +16,10 @@ TensorFlow Hub is a collection of trained machine learning models that you can u
     
 Apart from pre-trained models such as BERT or Faster R-CNN, there are a good amount of pre-trained models. The one **I used for Project** is **Magenta’s Arbitrary Image Stylization network**. Let’s take a look at what Magenta is.
 
+## Magenta and Arbitrary Image Stylization
+
+**`What is Magenta?`**
+
 
 
 
