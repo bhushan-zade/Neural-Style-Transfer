@@ -48,4 +48,16 @@ We are free to choose any photo we want. The content image I selected for this p
 <img align="centre" alt="coding" height="200" width="220" src="https://user-images.githubusercontent.com/118050962/217672014-77547edc-a366-4bff-be23-506b20ae4817.jpg">
 
 I would like to transfer the style of Leonardo da Vinci. So, I chose one of his famous paintings: Mona Lisa, Considered an archetypal masterpiece of the Italian Renaissance, it has been described as "the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world. You can even use your own drawings.
+
+After Selecting the image we need to do some Image Scaling and processing. and after that we need to load this images in content image and style image. after that We need to load/import Load Magenta's Arbitrary Image Stylization network from TensorFlow Hub. and then we need to predict final stylized image with given input images and with the help of Arbitrary Image Stylization (pre-trained model).
+
+**`Final-> Stylized image`**
+
+<img align="centre" alt="coding" height="200" width="220" src="https://user-images.githubusercontent.com/118050962/217676182-0609260f-ea80-4508-be11-6e6636025736.png">
+
+
+
+
+
+    
  
