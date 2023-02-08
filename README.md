@@ -7,6 +7,15 @@ Neural Style Transfer (NST) is an optimization technique that involves the utili
  
 This technique is used by many popular android iOS apps such as Prisma, DreamScope, PicsArt.
 
+# Tensorflow Hub
+
+TensorFlow Hub is a collection of trained machine learning models that you can use with ease. TensorFlow’s official description for the Hub is as follows:
+
+    1.Machine Learning Segment  
+    2.Web Scraping Segment  
+    3.Web Development & Deployment Segment
+
+TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning and deployable anywhere. Reuse trained models like BERT and Faster R-CNN with just a few lines of code.
 
 
  
