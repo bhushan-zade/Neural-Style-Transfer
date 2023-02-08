@@ -87,7 +87,7 @@ with content_image:
 
 # STYLE IMAGE
 with style_image:
-    st.write('## Style Image')
+    st.write('## Style/Painting Image')
     chosen_style = st.sidebar.radio(
         ' ',
         ("Upload", "URL"))
