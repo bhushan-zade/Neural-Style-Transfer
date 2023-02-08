@@ -3,7 +3,8 @@
 
 # Neural Style Transfer 
 
-Neural Style Transfer is an optimization technique used to take two images, a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image. 
+Neural Style Transfer (NST) is an optimization technique that involves the utilization of deep convolutional neural network and algorithms to extract the content information from an image (content image) and the style information from another reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
+ 
 This technique is used by many popular android iOS apps such as Prisma, DreamScope, PicsArt.
 
 
