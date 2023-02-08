@@ -22,6 +22,11 @@ Apart from pre-trained models such as BERT or Faster R-CNN, there are a good amo
 
 Magenta is an open-source research project, backed by Google, which aims to provide machine learning solutions to musicians and artists. Magenta has support in both Python and Javascript. Using Magenta, we can create songs, paintings, sounds, and more. For this project, I used a neural network which is trained and maintained by the Magenta team for Arbitrary Image Stylization.
 
+## Arbitrary Image Stylization
+
+After observing that the original work for NST proposes a slow optimization for style transfer, the Magenta team developed a fast artistic style transfer method, which can work in real-time. Even though the customizability of the model is limited, it is satisfactory enough to perform a non-photorealistic rendering work with NST. Arbitrary Image Stylization under TensorFlow Hub is a module that can perform fast artistic style transfer that may work on arbitrary painting styles.
+
+
 
 
 
