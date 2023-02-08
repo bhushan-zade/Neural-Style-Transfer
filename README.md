@@ -27,7 +27,9 @@ Magenta is an open-source research project, backed by Google, which aims to prov
 After observing that the original work for NST proposes a slow optimization for style transfer, the Magenta team developed a fast artistic style transfer method, which can work in real-time. Even though the customizability of the model is limited, it is satisfactory enough to perform a non-photorealistic rendering work with NST. Arbitrary Image Stylization under TensorFlow Hub is a module that can perform fast artistic style transfer that may work on arbitrary painting styles.
 
 
+## Working with Example
 
+**`Get the image`**
 
 
  
