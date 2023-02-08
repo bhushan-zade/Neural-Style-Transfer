@@ -39,9 +39,7 @@ We will start by selecting two image files. We can directly load these image fil
 
 **`Content Image`**
 
-<img align="left" alt="coding" height="200" width="250" src="https://user-images.githubusercontent.com/118050962/217671249-454b25c6-3eaf-4e26-b0a9-629ff8477a45.png">
-
-<br/>
+<img align="left" alt="coding" height="200" width="220" src="https://user-images.githubusercontent.com/118050962/217671249-454b25c6-3eaf-4e26-b0a9-629ff8477a45.png">
 
 We are free to choose any photo we want. The content image I selected for this project is my current profile photo of github profile, as you can see in Image.
 
