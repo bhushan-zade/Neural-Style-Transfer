@@ -20,7 +20,7 @@ Apart from pre-trained models such as BERT or Faster R-CNN, there are a good amo
 
 **`What is Magenta?`**
 
-Magenta is an open-source research project, backed by Google, which aims to provide machine learning solutions to musicians and artists. Magenta has support in both Python and Javascript. Using Magenta, we can create songs, paintings, sounds, and more. For this project, I used a neural network trained and maintained by the Magenta team for Arbitrary Image Stylization.
+Magenta is an open-source research project, backed by Google, which aims to provide machine learning solutions to musicians and artists. Magenta has support in both Python and Javascript. Using Magenta, we can create songs, paintings, sounds, and more. For this project, I used a neural network which is trained and maintained by the Magenta team for Arbitrary Image Stylization.
 
 
 
