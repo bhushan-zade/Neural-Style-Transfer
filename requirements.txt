@@ -1,7 +1,0 @@
-matplotlib
-numpy
-Pillow
-streamlit
-protobuf
-tensorflow-cpu
-tensorflow-hub
