@@ -96,7 +96,7 @@ with style_image:
     if chosen_style == 'Upload':
         st.write(f"You choosed {chosen_style}!")
         style_image_file = st.sidebar.file_uploader(
-            "Pick a Style image", type=("png", "jpg", "jpeg"))
+            "Pick a Style/Painting image", type=("png", "jpg", "jpeg"))
         try:
             style_image_file = style_image_file.read()
             style_image_file = transform_img(style_image_file)
