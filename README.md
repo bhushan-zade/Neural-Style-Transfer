@@ -11,9 +11,10 @@ This technique is used by many popular android iOS apps such as Prisma, DreamSco
 
 TensorFlow Hub is a collection of trained machine learning models that you can use with ease. TensorFlow’s official description for the Hub is as follows:
 
-    TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning and deployable anywhere. Reuse trained models like BERT and Faster R-CNN with just a few lines of code.  
-    2.Web Scraping Segment  
-    3.Web Development & Deployment Segment
+    TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning and deployable anywhere.
+    Reuse trained models like BERT and Faster R-CNN with just a few lines of code.  
+    
+Apart from pre-trained models such as BERT or Faster R-CNN, there are a good amount of pre-trained models. The one **I used for Project** is **Magenta’s Arbitrary Image Stylization network**. Let’s take a look at what Magenta is.
 
 
 
