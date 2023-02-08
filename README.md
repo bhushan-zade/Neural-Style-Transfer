@@ -46,4 +46,6 @@ We are free to choose any photo we want. The content image I selected for this p
 **`Style/Painting Image`**
 
 <img align="centre" alt="coding" height="200" width="220" src="https://user-images.githubusercontent.com/118050962/217672014-77547edc-a366-4bff-be23-506b20ae4817.jpg">
+
+I would like to transfer the style of Leonardo da Vinci. So, I chose one of his famous paintings: Mona Lisa, Considered an archetypal masterpiece of the Italian Renaissance, it has been described as "the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world. You can even use your own drawings.
  
