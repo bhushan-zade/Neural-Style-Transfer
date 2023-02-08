@@ -33,9 +33,9 @@ After observing that the original work for NST proposes a slow optimization for 
 
 We will start by selecting two image files. We can directly load these image files with given options.
 
-    1.Upload (from your system i.e. from Mobile, Tab, Laptop, Computer) 
-    2.Camera (Take picture from your system camera) 
-    3.URL (provide URL link of image)
+    1.Upload (Upload Image from System i.e. from Mobile, Tab, Laptop, Computer) 
+    2.Camera (Take Picture from System's Camera) 
+    3.URL (Provide URL Link of Image)
 
 
 We are free to choose any photo we want. The content image I selected for this project is my current profile photo of github profile, as you can see in Image.
