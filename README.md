@@ -73,6 +73,11 @@ Reference:
     Tensorflow
     1. https://www.tensorflow.org/tutorials/generative/style_transfer 
     2. https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
+    
+    Deepleaerning.ai(Coursera)
+    https://www.coursera.org/learn/convolutional-neural-networks/lecture/SA5H8/what-is-neural-style-transfer
+    
+    
 
 
 
