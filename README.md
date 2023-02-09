@@ -64,7 +64,7 @@ After Selecting the image we need to do some Image Scaling and processing. and a
 
 # Visit For Details:
 
-Data Processing & Model Applied: https://www.kaggle.com/code/bhu1111/sms-spam-detection
+Data Processing & Model Applied: https://www.kaggle.com/code/bhu1111/neural-style-transfer
 
 Model Streamlit Python-APP(app.py) File: https://github.com/bhushan-zade/Neural-Style-Transfer/blob/main/app.py
 
