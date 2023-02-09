@@ -64,15 +64,15 @@ After Selecting the image we need to do some Image Scaling and processing. and a
 
 # Visit For Details:
 
-Data pre-processing & Model Applied: https://www.kaggle.com/code/bhu1111/sms-spam-detection
+Data Processing & Model Applied: https://www.kaggle.com/code/bhu1111/sms-spam-detection
 
 Model Streamlit Python-APP(app.py) File: https://github.com/bhushan-zade/Neural-Style-Transfer/blob/main/app.py
 
 Reference: 
 
     Tensorflow
-    1.https://www.tensorflow.org/tutorials/generative/style_transfer 
-    2.https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
+    1. https://www.tensorflow.org/tutorials/generative/style_transfer 
+    2. https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
 
 
 
