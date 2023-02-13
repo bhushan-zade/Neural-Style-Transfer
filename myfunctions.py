@@ -56,11 +56,3 @@ def tensor_to_image(tensor):
         assert tensor.shape[0] == 1
         tensor = tensor[0]
     return Image.fromarray(tensor)
-
-
-def export_image(tf_img):
-	pil_image = Image.fromarray(np.squeeze(tf_img*255).astype(np.uint8))
-	buffer = BytesIO()
-	pil_image.save(buffer, format="PNG")
-	byte_image = buffer.getvalue()
-	return byte_image
