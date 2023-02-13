@@ -174,9 +174,7 @@ with final:
 
                 a= st.write('## Final Image')
                 st.image(final_image)
-                st.download_button(label="**Download Final Image**", data=export_image(stylized_image), file_name="final_image.png",
-                                   mime="image/png")
-
+               
                 try:
                     # Delete style.jpg and content.jpg
                     os.remove("style.jpg")
