@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import tensorflow_hub as hub
-from myfunctions import load_img, transform_img, tensor_to_image, imshow, export_image
+from myfunctions import load_img, transform_img, tensor_to_image, imshow
 import tensorflow as tf
 
 
