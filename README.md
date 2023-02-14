@@ -64,11 +64,11 @@ After Selecting the image we need to do some Image Scaling and processing. and a
 
 # **`Visit For Details:`**
 
-Model Applied: https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
+**`Model Applied:`** https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
 
-Model Streamlit Python-APP(app.py) File: https://github.com/bhushan-zade/Neural-Style-Transfer/blob/main/app.py
+**`Model Streamlit Python-APP(app.py):`** https://github.com/bhushan-zade/Neural-Style-Transfer/blob/main/app.py
 
-Visit The Web App: https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
+**`Visit The Web App:`** https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
 
 Reference: 
 
