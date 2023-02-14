@@ -7,7 +7,7 @@ Neural Style Transfer (NST) is an optimization technique that involves the utili
  
 This technique is used by many popular android iOS apps such as Prisma, DreamScope, PicsArt.
 
-# Tensorflow Hub
+# **`Tensorflow Hub`**
 
 TensorFlow Hub is a collection of trained machine learning models that you can use with ease. TensorFlow’s official description for the Hub is as follows:
 
@@ -16,18 +16,18 @@ TensorFlow Hub is a collection of trained machine learning models that you can u
     
 Apart from pre-trained models such as BERT or Faster R-CNN, there are a good amount of pre-trained models. The one **I used for Project** is **Magenta’s Arbitrary Image Stylization network**. Let’s take a look at what Magenta is.
 
-## Magenta and Arbitrary Image Stylization
+## **`Magenta and Arbitrary Image Stylization`**
 
 **`What is Magenta?`**
 
 Magenta is an open-source research project, backed by Google, which aims to provide machine learning solutions to musicians and artists. Magenta has support in both Python and Javascript. Using Magenta, we can create songs, paintings, sounds, and more. For this project, I used a neural network which is trained and maintained by the Magenta team for Arbitrary Image Stylization.
 
-## Arbitrary Image Stylization
+## **`Arbitrary Image Stylization`**
 
 After observing that the original work for NST proposes a slow optimization for style transfer, the Magenta team developed a fast artistic style transfer method, which can work in real-time. Even though the customizability of the model is limited, it is satisfactory enough to perform a non-photorealistic rendering work with NST. Arbitrary Image Stylization under TensorFlow Hub is a module that can perform fast artistic style transfer that may work on arbitrary painting styles.
 
 
-## Working with Example
+## **`Working with Example`**
 
 **`Get the image from user`**
 
@@ -62,7 +62,7 @@ After Selecting the image we need to do some Image Scaling and processing. and a
 
 <img align="" alt="coding" width="900" src= "https://user-images.githubusercontent.com/118050962/217676767-fd44f8d3-1d35-4735-839e-098f0ba185f2.PNG">
 
-# Visit For Details:
+# **`Visit For Details:`**
 
 Model Applied: https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
 
