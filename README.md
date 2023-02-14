@@ -70,7 +70,7 @@ After Selecting the image we need to do some Image Scaling and processing. and a
 
 **`Visit The Web App:`** https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
 
-Reference: 
+**`Reference:`** 
 
     Tensorflow
     1. https://www.tensorflow.org/tutorials/generative/style_transfer 
