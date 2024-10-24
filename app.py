@@ -20,16 +20,19 @@ st.write("""
 """)
 
 # Load Pretrained Model
-@st.cache
+@st.cache_resource
 def load_model():
-    model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
-    return model
+    try:
+        model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
+        return model
+    except Exception as e:
+        st.error(f"Error loading model: {e}")
+        return None
 
-
-model_load_state = st.text('Loading Model')
+model_load_state = st.text('Loading Model...')
 model = load_model()
 # Notify that the data was successfully loaded.
-model_load_state.text('')
+model_load_state.text('Model loaded successfully' if model else 'Failed to load model.')
 
 
 content_image, style_image, final = st.columns(3)
